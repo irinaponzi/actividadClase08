@@ -1,6 +1,6 @@
 # Ejercicios Clase 08
 
-Las actividades 1 y 2 se encuentran en la rama ejercicio/1y2
+Las actividades 1 y 2 se encuentran en la rama ejercicio/1y2.
 La actividad 3 en la rama ejercicio/3
 
 Consignas:
